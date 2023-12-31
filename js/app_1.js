@@ -1,0 +1,4 @@
+(function($){"use strict";var $application={$form:null,setup:function(){this.$form=$('#iap-directory-form')},init:function(){var $self=this;$self.$form.on('submit',function(event){var $validated=!0;if($self.validate()===!1){$validated=!1}
+if($self.$form.find('[name="membership_level[]"]:checked').length==0){$validated=!1}
+if($self.$form.find('[name="professional_association_memberships[]"]:checked').length==0){$validated=!1}
+if($validated===!1){event.preventDefault()}})},validate:function(){var $validated=!0;this.$form.find('input[required]').each(function(index){if($(this).val()==='undefined'){$validated=!1}});return $validated}};$(document).ready(function($){$application.setup();$application.init()})})(jQuery)
