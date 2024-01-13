@@ -96,7 +96,8 @@
             </div>
             <!-- /.row -->
 
-            <button name="button" class="btn btn-primary form-control"> Register</button>
+
+            <input type="button" value="Register" onclick="document.location='registrationform.php'">
         </div>
 
 

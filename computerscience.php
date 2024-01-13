@@ -95,7 +95,7 @@
             </div>
             <!-- /.row -->
 
-            <button name="button" class="btn btn-primary form-control"> Register</button>
+            <button name="button" class="btn btn-primary form-control" onclick="document.location='registrationform.php'"> Register</button>
         </div>
 
 
