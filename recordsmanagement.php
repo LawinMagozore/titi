@@ -70,20 +70,23 @@
                 <div class="card-body">
 
 
-                    <p>Data analysis is the process of inspecting, cleaning, transforming, and modeling data with the goal of discovering useful information and making informed decisions. It plays a critical role in various industries such as finance, marketing, healthcare, and more. As businesses collect massive amounts of data every day, the demand for skilled data analysts continues to grow.
+                    <p>Records and Archives Management is aimed at students who are keen to pursue a career in the information
+                        and records management field. The programme seeks to equip students with the theoretical knowledge and practical skills to work in the information management
+                        industry which us continuously transformed by the information and communication technology changes.
 
                     </p>
                     <h6>Programme Aim</h6>
-                    <p>To excel as a data analyst, it is crucial to be familiar with various tools and techniques used in the field. In this section of the course, you will be introduced to popular tools like Python and R programming languages that are widely used for statistical analysis and data manipulation.
-
-                        You will learn how to use Python libraries such as Pandas for importing and manipulating datasets efficiently. Additionally, you will explore R packages like dplyr for performing advanced operations on datasets. Understanding these tools will empower you to handle real-world scenarios effectively.</p>
+                    <p>
+                        The aim is to produce graduates that meet the needs of today’s information centres and all industries by providing a thorough understanding of the subject, technical competence, and transferable skills. To prepare records and archives management students for rapidly changing technological environments with the core knowledge
+                        central to multidisciplinary development and personal improvement throughout their professional careers.</p>
                     <h6>Programme Objectives</h6>
                     <p>The programme is designed such that on completion of its courses, the graduates should be able to:</p>
 
-                    <p> A thorough introduction to data analysis and data structures.
-                        How to analyse data and build statistical models in practical, real-world scenarios.
-                        The basics of logic, design-thinking, and problem-solving.
-                        How to prepare and build data dashboards to communicate insights and findings properly.</p>
+                    <p>
+                        Records management.
+                        Archives management.
+                        Knowledge management.
+                        Conservation and preservation</p>
 
 
 
