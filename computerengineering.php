@@ -65,14 +65,11 @@
             <div class="card">
                 <div class="card-header">
                     <h5 class="card-title"> More About Computer Engineering </h5>
-
                 </div>
                 <div class="card-body">
-
-
                     <p>Computer engineering is a branch of engineering that integrates several fields of computer science and electronic engineering required to develop computer hardware and software. The Department of Software Engineering is the home of Computer Engineering programmes that focus on the development, prototyping and design of both software and hardware, as well as the integration of the two. </p>
                     <h6>Programme Aim</h6>
-                    <p>provide a suitable, multi-disciplinary training for a career in the important and expanding field of Software Engineering.</p>
+                    <p>provide a suitable, multi-disciplinary training for a career in the important and expanding field of Computer Engineering.</p>
                     <h6>Programme Objectives</h6>
                     <p>The programme is designed such that on completion of its courses, the graduates should be able to:</p>
 
@@ -83,7 +80,7 @@
 
 
                     <h6>Career Prospects</h6>
-                    <p>The graduates of this programme are Software Engineers who provide a systematic approach to the analysis, design, assessment, implementation, test, maintenance and reengineering of software of different kinds.
+                    <p>The graduates of this programme are computer Engineers who provide a systematic approach to the analysis, design, assessment, implementation, test, maintenance and reengineering of software of different kinds.
                         Computer Programmers specializing in the development of robust Software including :
                         – Compiler Design;
                         – Microprocessors and Embedded Systems;
