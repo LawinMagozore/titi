@@ -83,10 +83,7 @@
                     <p>The programme is designed such that on completion of its courses, the graduates should be able to:</p>
 
                     <p>
-                        Records management.
-                        Archives management.
-                        Knowledge management.
-                        Conservation and preservation</p>
+                        Records management,Archives management,Knowledge management,Conservation and preservation</p>
 
 
 
